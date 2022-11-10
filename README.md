@@ -210,14 +210,16 @@ print(classification_report(y_test,predictions))
 ###  Transforming Categorical into numerical values for Y
 <img width="432" alt="y_encoded" src="https://user-images.githubusercontent.com/94677128/201062589-22b7b067-5142-4534-b690-c5b98fa9e4a6.png">
 ###  Predictions
-<img width="365" alt="pred" src="https://user-images.githubusercontent.com/94677128/201062751-ccf49cc1-fdd7-400c-a9fb-309d0e10c3ef.png">
-###  Accuracy
-<img width="32" alt="acc" src="https://user-images.githubusercontent.com/94677128/201063006-bdb3c803-241b-4fa3-97f4-668c94a049f3.png">
-### Confusion Matrix
-<img width="86" alt="conf_mat" src="https://user-images.githubusercontent.com/94677128/201063283-e090bc02-76b2-4334-ac39-fa8ede97f4f3.png">
-### Classification Report
-<img width="347" alt="class_rep" src="https://user-images.githubusercontent.com/94677128/201063396-3bc3e0b2-532a-4d89-9592-b116816a863e.png">
+![image](https://user-images.githubusercontent.com/94677128/201064759-10c7c4f1-4248-4fad-9078-0b95b875a676.png)
 
+###  Accuracy
+![image](https://user-images.githubusercontent.com/94677128/201064813-b83c768e-942d-4491-a3b2-4dc8248825d1.png)
+
+### Confusion Matrix
+![image](https://user-images.githubusercontent.com/94677128/201064854-49e3b572-e435-4a52-8416-3b312e99556e.png)
+
+### Classification Report
+![image](https://user-images.githubusercontent.com/94677128/201064895-94fec081-3aa5-4bd5-aecf-0510e22e8337.png)
 
 
 ## RESULT
