@@ -209,8 +209,10 @@ print(classification_report(y_test,predictions))
 ![image](https://user-images.githubusercontent.com/94677128/201062340-5fdb4177-4ad5-45f3-b4eb-d0544de20184.png)
 ###  Transforming Categorical into numerical values for Y
 <img width="432" alt="y_encoded" src="https://user-images.githubusercontent.com/94677128/201062589-22b7b067-5142-4534-b690-c5b98fa9e4a6.png">
-###  Predictions
-![image](https://user-images.githubusercontent.com/94677128/201065233-03bf5414-d60d-4f3d-aa6d-bdf8566d8615.png)
+
+### Predictions 
+![image](https://user-images.githubusercontent.com/94677128/201066025-2d65c9de-e94a-436c-9990-421ddfc11a1f.png)
+
 
 ###  Accuracy
 ![image](https://user-images.githubusercontent.com/94677128/201064813-b83c768e-942d-4491-a3b2-4dc8248825d1.png)
