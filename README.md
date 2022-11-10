@@ -205,17 +205,17 @@ print(classification_report(y_test,predictions))
 ![image](https://user-images.githubusercontent.com/94677128/201061980-5017b383-8795-4991-8c8f-3e5ff79ce332.png)
 ### First five values of Y
 ![image](https://user-images.githubusercontent.com/94677128/201062162-93a5ab29-f256-42c8-a674-7d1e2430d9cf.png)
-### Unique values in Y
+###  Unique values in Y
 ![image](https://user-images.githubusercontent.com/94677128/201062340-5fdb4177-4ad5-45f3-b4eb-d0544de20184.png)
-### Transforming Categorical into numerical values for Y
+###  Transforming Categorical into numerical values for Y
 <img width="432" alt="y_encoded" src="https://user-images.githubusercontent.com/94677128/201062589-22b7b067-5142-4534-b690-c5b98fa9e4a6.png">
-### Predictions
+###  Predictions
 <img width="365" alt="pred" src="https://user-images.githubusercontent.com/94677128/201062751-ccf49cc1-fdd7-400c-a9fb-309d0e10c3ef.png">
-### Accuracy
+###  Accuracy
 <img width="32" alt="acc" src="https://user-images.githubusercontent.com/94677128/201063006-bdb3c803-241b-4fa3-97f4-668c94a049f3.png">
-### Confusion Matrix
+###   Confusion Matrix
 <img width="86" alt="conf_mat" src="https://user-images.githubusercontent.com/94677128/201063283-e090bc02-76b2-4334-ac39-fa8ede97f4f3.png">
-### Classification Report
+###  Classification Report
 <img width="347" alt="class_rep" src="https://user-images.githubusercontent.com/94677128/201063396-3bc3e0b2-532a-4d89-9592-b116816a863e.png">
 
 
